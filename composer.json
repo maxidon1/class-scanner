@@ -1,4 +1,8 @@
 {
+  "name": "violet/class-scanner",
+  "description": "Library for scanning PHP class",
+  "type": "library",
+  "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Violet\\ClassScanner\\": "src/"
